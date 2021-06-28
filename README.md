@@ -1,5 +1,5 @@
 # EvM
-This is an interactive screensaver I made with Unity to learn it's dev environment. It looks something like this:
+This is an interactive screensaver I made with Unity in my learning journey. It looks something like this:
 
 ![Alt Text](https://media.giphy.com/media/iOvB2WfLZj1ol2jtCn/giphy.gif)
 
